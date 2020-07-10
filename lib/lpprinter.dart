@@ -10,8 +10,8 @@ class Lpprinter {
     final String version = await _channel.invokeMethod('getPlatformVersion');
     return version;
   }
-  static Future<String> hello() async {
-    final String a = await _channel.invokeMethod('hello',"thisisargs");
+  static Future<String> hello(String s) async {
+    final String a = await _channel.invokeMethod('hello',"thisisargs"+s);
     return a;
   }
 }

@@ -23,7 +23,7 @@ class _MyAppState extends State<MyApp> {
   }
 
   Future<void> gettest() async {
-     String  _t= await Lpprinter.hello();
+     String  _t= await Lpprinter.hello("dsf");
 
     setState(() {
       test=_t;

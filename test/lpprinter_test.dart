@@ -18,6 +18,11 @@ void main() {
   });
 
   test('getPlatformVersion', () async {
-    expect(await Lpprinter.platformVersion, '42');
+    var s=await Lpprinter.platformVersion;
+    print(s);
+  });
+  test('hello', () async {
+    String a = await channel.invokeMethod('hello',"thisisargs");
+    print(a);
   });
 }

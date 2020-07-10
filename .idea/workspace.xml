@@ -1,23 +1,60 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2ca8e03b-a5c9-46c6-8ffa-859aefe58812" name="Default Changelist" comment="" />
+    <list default="true" id="2ca8e03b-a5c9-46c6-8ffa-859aefe58812" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/src/main/java/com/example/utils/Qr.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/.idea/caches/build_file_checksums.ser" beforeDir="false" afterPath="$PROJECT_DIR$/android/.idea/caches/build_file_checksums.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/android/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/android/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/example/android/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/android/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/example/android/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/lib/main.dart" beforeDir="false" afterPath="$PROJECT_DIR$/example/lib/main.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/lpprinter.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/lpprinter.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pubspec.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/pubspec.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/lpprinter_test.dart" beforeDir="false" afterPath="$PROJECT_DIR$/test/lpprinter_test.dart" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1eU4WegOxujBJlUyQqJpk9pTpwB" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="dart.analysis.tool.window.force.activate" value="false" />
     <property name="io.flutter.reload.alreadyRun" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/android" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/example/android" />
     <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RunManager" selected="Flutter Test.hello">
+    <configuration name="getPlatformVersion" type="FlutterTestConfigType" factoryName="Flutter Test" temporary="true" nameIsGenerated="true">
+      <option name="testName" value="getPlatformVersion" />
+      <option name="testFile" value="$PROJECT_DIR$/test/lpprinter_test.dart" />
+      <method v="2" />
+    </configuration>
+    <configuration name="hello" type="FlutterTestConfigType" factoryName="Flutter Test" temporary="true" nameIsGenerated="true">
+      <option name="testName" value="hello" />
+      <option name="testFile" value="$PROJECT_DIR$/test/lpprinter_test.dart" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Flutter Test.hello" />
+        <item itemvalue="Flutter Test.getPlatformVersion" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -41,26 +78,26 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="221" y="0" key="#com.intellij.openapi.projectRoots.ui.ProjectJdksEditor/0.0.1280.680@0.0.1280.680" timestamp="1594364446918" />
-    <state x="421" y="95" key="FileChooserDialogImpl" timestamp="1594364766301">
+    <state x="421" y="95" key="FileChooserDialogImpl" timestamp="1594374320756">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="421" y="95" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1594364766301" />
-    <state width="402" height="539" key="GridCell.Tab.0.bottom" timestamp="1594367682627">
+    <state x="421" y="95" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1594374320756" />
+    <state width="402" height="539" key="GridCell.Tab.0.bottom" timestamp="1594371057863">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="402" height="539" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1594367682627" />
-    <state width="402" height="539" key="GridCell.Tab.0.center" timestamp="1594367682627">
+    <state width="402" height="539" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1594371057863" />
+    <state width="402" height="539" key="GridCell.Tab.0.center" timestamp="1594371057862">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="402" height="539" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1594367682627" />
-    <state width="402" height="539" key="GridCell.Tab.0.left" timestamp="1594367682627">
+    <state width="402" height="539" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1594371057862" />
+    <state width="402" height="539" key="GridCell.Tab.0.left" timestamp="1594371057862">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="402" height="539" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1594367682627" />
-    <state width="402" height="539" key="GridCell.Tab.0.right" timestamp="1594367682627">
+    <state width="402" height="539" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1594371057862" />
+    <state width="402" height="539" key="GridCell.Tab.0.right" timestamp="1594371057862">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="402" height="539" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1594367682627" />
+    <state width="402" height="539" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1594371057862" />
     <state x="321" y="73" width="638" height="534" key="find.popup" timestamp="1594367495519">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
