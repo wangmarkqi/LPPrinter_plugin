@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2ca8e03b-a5c9-46c6-8ffa-859aefe58812" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1eU4WegOxujBJlUyQqJpk9pTpwB" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="dart.analysis.tool.window.force.activate" value="false" />
+    <property name="io.flutter.reload.alreadyRun" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/android" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2ca8e03b-a5c9-46c6-8ffa-859aefe58812" name="Default Changelist" comment="" />
+      <created>1594362871007</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1594362871007</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="487" y="229" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1594364448568">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="487" y="229" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1280.680@0.0.1280.680" timestamp="1594364448568" />
+    <state x="221" y="0" key="#com.intellij.openapi.projectRoots.ui.ProjectJdksEditor" timestamp="1594364446918">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="221" y="0" key="#com.intellij.openapi.projectRoots.ui.ProjectJdksEditor/0.0.1280.680@0.0.1280.680" timestamp="1594364446918" />
+    <state x="421" y="95" key="FileChooserDialogImpl" timestamp="1594364766301">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="421" y="95" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1594364766301" />
+    <state width="402" height="539" key="GridCell.Tab.0.bottom" timestamp="1594367682627">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="402" height="539" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1594367682627" />
+    <state width="402" height="539" key="GridCell.Tab.0.center" timestamp="1594367682627">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="402" height="539" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1594367682627" />
+    <state width="402" height="539" key="GridCell.Tab.0.left" timestamp="1594367682627">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="402" height="539" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1594367682627" />
+    <state width="402" height="539" key="GridCell.Tab.0.right" timestamp="1594367682627">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="402" height="539" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1594367682627" />
+    <state x="321" y="73" width="638" height="534" key="find.popup" timestamp="1594367495519">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="321" y="73" width="638" height="534" key="find.popup/0.0.1280.680@0.0.1280.680" timestamp="1594367495519" />
+  </component>
+</project>
