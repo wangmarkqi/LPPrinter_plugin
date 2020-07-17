@@ -10,8 +10,8 @@ class Lpprinter {
     final String version = await _channel.invokeMethod('getPlatformVersion');
     return version;
   }
-  static Future<String> hello(String s) async {
-    final String a = await _channel.invokeMethod('hello',"thisisargs"+s);
+  static Future<String> printQr(String title,String qr,String txt) async {
+    final String a = await _channel.invokeMethod('printQr',{"title":title,"qr":qr,"txt":txt});
     return a;
   }
 }

@@ -8,6 +8,9 @@ import io.flutter.plugin.common.MethodChannel;
 import io.flutter.plugin.common.MethodChannel.MethodCallHandler;
 import io.flutter.plugin.common.MethodChannel.Result;
 import io.flutter.plugin.common.PluginRegistry.Registrar;
+import com.example.utils.Qr;
+
+import com.example.utils.Qr;
 
 /** LpprinterPlugin */
 public class LpprinterPlugin implements FlutterPlugin, MethodCallHandler {
@@ -31,9 +34,16 @@ public class LpprinterPlugin implements FlutterPlugin, MethodCallHandler {
       result.success("Android " + android.os.Build.VERSION.RELEASE);
       return;
     }
-    if (call.method.equals("hello")) {
-      String arguments = call.arguments();
-      result.success("hello"+arguments );
+    if (call.method.equals("printQr")) {
+      String  title= call.argument("title");
+      String qr= call.argument("qr");
+      String txt= call.argument("txt");
+
+      Qr q=new Qr();
+      q.onCreate();
+      q.printQr(title,qr,txt);
+
+      result.success("success");
       return;
     }
 

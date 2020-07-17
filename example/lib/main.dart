@@ -19,11 +19,10 @@ class _MyAppState extends State<MyApp> {
   @override
   void initState() {
     super.initState();
-    gettest();
   }
 
   Future<void> gettest() async {
-     String  _t= await Lpprinter.hello("dsf");
+     String  _t= await Lpprinter.printQr("梧桐港","二维码内容","二维码描述");
 
     setState(() {
       test=_t;
@@ -35,10 +34,17 @@ class _MyAppState extends State<MyApp> {
     return MaterialApp(
       home: Scaffold(
         appBar: AppBar(
-          title: const Text('Plugin example app'),
+          title: Text(test),
         ),
         body: Center(
-          child: Text('res: $test\n'),
+          child: new MaterialButton(
+            color: Colors.blue,
+            textColor: Colors.white,
+            child: new Text('点我'),
+            onPressed: () {
+              gettest();
+            },
+          ),
         ),
       ),
     );
