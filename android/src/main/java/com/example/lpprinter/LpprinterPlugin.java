@@ -38,18 +38,23 @@ public class LpprinterPlugin implements FlutterPlugin, MethodCallHandler {
       String  title= call.argument("title");
       String qr= call.argument("qr");
       String txt= call.argument("txt");
-
       Qr q=new Qr();
       q.onCreate();
       q.printQr(title,qr,txt);
-
       result.success("success");
       return;
     }
-
+    if (call.method.equals("printQr75_50")) {
+      String  title= call.argument("title");
+      String qr= call.argument("qr");
+      String txt= call.argument("txt");
+      Qr q=new Qr();
+      q.onCreate();
+      q.printQr75_50(title,qr,txt);
+      result.success("success");
+      return;
+    }
     result.notImplemented();
-
-
   }
 
   @Override

@@ -14,4 +14,9 @@ class Lpprinter {
     final String a = await _channel.invokeMethod('printQr',{"title":title,"qr":qr,"txt":txt});
     return a;
   }
+
+  static Future<String> printQr75_50(String title,String qr,String txt) async {
+    final String a = await _channel.invokeMethod('printQr75_50',{"title":title,"qr":qr,"txt":txt});
+    return a;
+  }
 }

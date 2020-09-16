@@ -1,7 +1,8 @@
 name: lpprinter
 description: LP priter flutter plugin
-version: 0.0.1
-author: wang qi
+version: 0.0.2
+authors:
+  - wang qi
 homepage: https://github.com/wangmarkqi/LPPrinter_plugin.git
 
 environment:
