@@ -34,6 +34,6 @@ android {
 
 dependencies {
     implementation fileTree(dir: 'libs', include: ['*.aar', '*.jar'], exclude: [])
-    implementation files('libs/LPAPI-2018-06-14-R.jar')
+    implementation files('libs/LPAPI-2020-06-30-R.jar')
     implementation 'com.alibaba:fastjson:1.2.71'
 }
