@@ -21,7 +21,7 @@ public class Qr {
         api.quit();
     }
 
-    public void printQr(String title, String qr, String txt) {
+    public void printQr40_30(String title, String qr, String txt) {
         // 开始绘图任务，传入参数(页面宽度, 页面高度 默认40*30)
         api.startJob(40, 30, 0);
         api.drawTextRegular(title, 27, 1, 12, 4, 4, 1);

@@ -23,7 +23,7 @@ class _MyAppState extends State<MyApp> {
 
   Future<void> gettest() async {
 //    适合40*30的标签
-//     String  _t= await Lpprinter.printQr("梧桐港","二维码内容","二维码描述");
+//     String  _t= await Lpprinter.printQr40_30("梧桐港","二维码内容","二维码描述");
 //    适合75*50的标签
     String  _t= await Lpprinter.printQr75_50("中信梧桐港供应链管理有限公司","二维码内容","二维码描述");
 
