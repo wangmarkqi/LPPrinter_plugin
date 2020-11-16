@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/lpprinter.iml" filepath="$PROJECT_DIR$/lpprinter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/android/lpprinter_android.iml" filepath="$PROJECT_DIR$/android/lpprinter_android.iml" />
       <module fileurl="file://$PROJECT_DIR$/example/android/lpprinter_example_android.iml" filepath="$PROJECT_DIR$/example/android/lpprinter_example_android.iml" />
     </modules>
   </component>

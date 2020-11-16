@@ -3,10 +3,8 @@ version '1.0'
 
 buildscript {
     repositories {
-        maven { url 'http://maven.aliyun.com/nexus/content/groups/public/' }
-        maven { url "https://jitpack.io" }
         google()
-//        jcenter()
+        jcenter()
     }
 
     dependencies {
@@ -16,16 +14,15 @@ buildscript {
 
 rootProject.allprojects {
     repositories {
-        maven { url 'http://maven.aliyun.com/nexus/content/groups/public/' }
         google()
-//        jcenter()
+        jcenter()
     }
 }
 
 apply plugin: 'com.android.library'
 
 android {
-    compileSdkVersion 28
+    compileSdkVersion 29
 
     defaultConfig {
         minSdkVersion 16
@@ -38,6 +35,4 @@ android {
 dependencies {
     implementation fileTree(dir: 'libs', include: ['*.aar', '*.jar'], exclude: [])
     implementation files('libs/LPAPI-2020-06-30-R.jar')
-//    implementation 'com.alibaba:fastjson:1.2.71'
-    implementation 'androidx.annotation:annotation:+'
 }

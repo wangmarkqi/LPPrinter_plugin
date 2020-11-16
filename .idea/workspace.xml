@@ -1,88 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="AndroidLogFilters">
-    <option name="TOOL_WINDOW_LOG_LEVEL" value="warn" />
-    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
-  </component>
   <component name="AutoImportSettings">
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2ca8e03b-a5c9-46c6-8ffa-859aefe58812" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/android/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/gradle.properties" beforeDir="false" afterPath="$PROJECT_DIR$/android/gradle.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/src/main/java/com/example/lpprinter/LpprinterPlugin.java" beforeDir="false" afterPath="$PROJECT_DIR$/android/src/main/java/com/example/lpprinter/LpprinterPlugin.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/src/main/java/com/example/utils/Qr.java" beforeDir="false" afterPath="$PROJECT_DIR$/android/src/main/java/com/example/utils/Qr.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/lib/main.dart" beforeDir="false" afterPath="$PROJECT_DIR$/example/lib/main.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/lpprinter.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/lpprinter.dart" afterDir="false" />
-    </list>
+    <list default="true" id="2aeae4c8-88d2-4523-acae-dc9b8341aa32" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[]" />
-  <component name="ExternalProjectsData">
-    <projectState path="$PROJECT_DIR$/android">
-      <ProjectState />
-    </projectState>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[fd3009c]" />
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
-  <component name="ExternalProjectsManager">
-    <system id="GRADLE">
-      <state>
-        <projects_view>
-          <tree_state>
-            <expand />
-            <select />
-          </tree_state>
-        </projects_view>
-      </state>
-    </system>
-  </component>
-  <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-  </component>
-  <component name="ProjectId" id="1eU4WegOxujBJlUyQqJpk9pTpwB" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
-    <ConfirmationsSetting value="2" id="Add" />
-  </component>
+  <component name="ProjectId" id="1k828hAL3xvntsppwdfmAAcxjpl" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
-    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="dart.analysis.tool.window.force.activate" value="false" />
+    <property name="dart.analysis.tool.window.force.activate" value="true" />
     <property name="dart.analysis.tool.window.visible" value="false" />
-    <property name="io.flutter.reload.alreadyRun" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="reference.settings.ide.settings.notifications" />
+    <property name="settings.editor.selected.configurable" value="http.proxy" />
     <property name="show.migrate.to.gradle.popup" value="false" />
   </component>
   <component name="RunManager" selected="Flutter.example/lib/main.dart">
-    <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
-      <option name="TEST_OBJECT" value="class" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <method v="2" />
-    </configuration>
-    <configuration name="getPlatformVersion" type="FlutterTestConfigType" factoryName="Flutter Test" temporary="true" nameIsGenerated="true">
-      <option name="testName" value="getPlatformVersion" />
-      <option name="testFile" value="$PROJECT_DIR$/test/lpprinter_test.dart" />
-      <method v="2" />
-    </configuration>
-    <configuration name="hello" type="FlutterTestConfigType" factoryName="Flutter Test" temporary="true" nameIsGenerated="true">
-      <option name="testName" value="hello" />
-      <option name="testFile" value="$PROJECT_DIR$/test/lpprinter_test.dart" />
+    <configuration name="LPAPI-2020-06-30-R.jar" type="JarApplication" temporary="true">
+      <option name="JAR_PATH" value="$PROJECT_DIR$/android/libs/LPAPI-2020-06-30-R.jar" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Flutter Test.hello" />
-        <item itemvalue="Flutter Test.getPlatformVersion" />
+        <item itemvalue="JAR Application.LPAPI-2020-06-30-R.jar" />
       </list>
     </recent_temporary>
   </component>
@@ -91,49 +46,38 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="2ca8e03b-a5c9-46c6-8ffa-859aefe58812" name="Default Changelist" comment="" />
-      <created>1594362871007</created>
+      <changelist id="2aeae4c8-88d2-4523-acae-dc9b8341aa32" name="Default Changelist" comment="" />
+      <created>1605067739197</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1594362871007</updated>
+      <updated>1605067739197</updated>
     </task>
     <servers />
   </component>
-  <component name="VcsManagerConfiguration">
-    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-  </component>
   <component name="WindowStateProjectService">
-    <state x="421" y="95" key="FileChooserDialogImpl" timestamp="1605060149323">
+    <state x="321" y="77" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1605488818896">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="421" y="95" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1605060149323" />
-    <state width="402" height="545" key="GridCell.Tab.0.bottom" timestamp="1605060184664">
+    <state x="321" y="77" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1280.680@0.0.1280.680" timestamp="1605488818896" />
+    <state width="483" height="545" key="GridCell.Tab.0.bottom" timestamp="1605489114326">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="402" height="545" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1605060184664" />
-    <state width="402" height="545" key="GridCell.Tab.0.center" timestamp="1605060184663">
+    <state width="483" height="545" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1605489114326" />
+    <state width="483" height="545" key="GridCell.Tab.0.center" timestamp="1605489114326">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="402" height="545" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1605060184663" />
-    <state width="402" height="545" key="GridCell.Tab.0.left" timestamp="1605060184663">
+    <state width="483" height="545" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1605489114326" />
+    <state width="483" height="545" key="GridCell.Tab.0.left" timestamp="1605489114326">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="402" height="545" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1605060184663" />
-    <state width="402" height="545" key="GridCell.Tab.0.right" timestamp="1605060184663">
+    <state width="483" height="545" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1605489114326" />
+    <state width="483" height="545" key="GridCell.Tab.0.right" timestamp="1605489114326">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="402" height="545" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1605060184663" />
-    <state x="30" y="0" key="SettingsEditor" timestamp="1605058773624">
+    <state width="483" height="545" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1605489114326" />
+    <state x="142" y="0" key="SettingsEditor" timestamp="1605488849150">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="30" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1605058773624" />
-    <state x="324" y="164" key="com.intellij.ide.util.TipDialog" timestamp="1600232764342">
-      <screen x="0" y="0" width="1280" height="680" />
-    </state>
-    <state x="324" y="164" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1600232764342" />
-    <state x="342" y="45" width="596" height="594" key="find.popup" timestamp="1605059219278">
-      <screen x="0" y="0" width="1280" height="680" />
-    </state>
-    <state x="342" y="45" width="596" height="594" key="find.popup/0.0.1280.680@0.0.1280.680" timestamp="1605059219278" />
+    <state x="142" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1605488849150" />
   </component>
 </project>
