@@ -43,7 +43,7 @@ class _MyAppState extends State<MyApp> {
 //    适合75*50的标签
   dev.log("aaaaaaaaaaaaaaaa");
     String _t =
-        await Lpprinter.printQr75_50("中信梧桐港供应链管理有限公司", "二维码内容", "二维码描述");
+        await Lpprinter.printQr70_50("中信梧桐港供应链管理有限公司", "二维码内容", "二维码描述");
     dev.log("message$_t");
 
   }

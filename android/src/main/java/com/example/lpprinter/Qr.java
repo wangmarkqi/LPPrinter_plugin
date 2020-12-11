@@ -35,4 +35,12 @@ public class Qr {
         api.draw2DQRCode(qr, 2, 8, 40);
         api.commitJob();
     }
+    public void printQr70_50(String title, String qr, String txt) {
+
+        api.startJob(70, 50, 0);
+        api.drawTextRegular(title, 2, 1, 65, 6, 6, 1);
+        api.drawTextRegular(txt, 40, 8, 30, 42, 3, 3);
+        api.draw2DQRCode(qr, 2, 8, 37);
+        api.commitJob();
+    }
 }
