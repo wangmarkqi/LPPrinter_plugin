@@ -6,8 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="2aeae4c8-88d2-4523-acae-dc9b8341aa32" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/src/main/java/com/example/lpprinter/Qr.java" beforeDir="false" afterPath="$PROJECT_DIR$/android/src/main/java/com/example/lpprinter/Qr.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/pubspec.lock" beforeDir="false" afterPath="$PROJECT_DIR$/example/pubspec.lock" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,11 +66,11 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="321" y="77" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1280.680@0.0.1280.680" timestamp="1605488818896" />
-    <state x="632" y="148" key="FileChooserDialogImpl" timestamp="1607652895613">
+    <state x="632" y="148" key="FileChooserDialogImpl" timestamp="1607669102482">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="421" y="97" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1605491229811" />
-    <state x="632" y="148" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1607652895613" />
+    <state x="632" y="148" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1607669102482" />
     <state width="735" height="884" key="GridCell.Tab.0.bottom" timestamp="1607652864294">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
